@@ -86,7 +86,7 @@ Delivery times were analyzed to identify delays, optimize shipping modes, and im
 ## **How to Run the Project ▶️**
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/supermarket-sales-analysis.git
+   git clone https://github.com/aayush-1709/SuperMarket-Sales-Analysis.git
    cd supermarket-sales-analysis
    ```
 
@@ -128,14 +128,13 @@ supermarket-sales-analysis/
 ├── data/
 │   └── SuperMarket.csv              # Raw dataset
 │
-├── notebooks/
-│   └── supermarket_sales_analysis.ipynb  # Main analysis notebook
+├── super.ipynb                      # Main analysis notebook
 │
-├── requirements.txt                # List of required Python libraries
+├── requirements.txt                 # List of required Python libraries
 │
-├── visuals/                        # Output visualizations and plots
+├── visuals/                         # Output visualizations and plots
 │
-└── README.md                       # Project overview and instructions
+└── README.md                        # Project overview and instructions
 ```
 
 ---
@@ -152,7 +151,6 @@ Contributions are welcome! If you'd like to enhance the project or add new featu
 
 ## **Contact 📧**
 If you have questions or suggestions, feel free to reach out:  
-- **Your Name**  
 - **Email**: sinhasam05@example.com  
 
 ---
